@@ -18,3 +18,7 @@ Grabs hostname, device name and IP and sends the collected data to a Discord web
 > The Bot does not collect IPv6 adresses, update comming soon™!
 > Make sure you are in the same LAN
 4. Send a command to the device if you want. Confirm with y.
+## Commands
+- shutdown   Shuts down the target. Thats it
+- http <parameter>   (Is going to be renamed to p) Starts a new process with the given parameters.
+This can be used to open websites(http https://www.website.com/), run executables, (http C:\Windows\Folder1\executable.exe) or open applications(http notepad)
