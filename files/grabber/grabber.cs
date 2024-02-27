@@ -95,7 +95,7 @@ class Program
                         //Process.Start("shutdown","/s /f /t 0");
                     }
                     string[] commands = data.Split(' ');
-                    if (commands[0] == "http")
+                    if (commands[0] == "p")
                     {
                         Process.Start(new ProcessStartInfo
                         {
