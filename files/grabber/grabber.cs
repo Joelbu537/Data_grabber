@@ -9,7 +9,7 @@ using System.Diagnostics;
 
 class Program
 {
-    const string TOKEN = "TOKEN"; //Your Token
+    const string TOKEN = null; //Your Token
     static async Task Main(string[] args)
     {
         Thread thread = new Thread(Autorun);
