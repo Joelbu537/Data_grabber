@@ -16,7 +16,7 @@ Grabs hostname, device name and IP and sends the collected data to a Discord web
 3. Use TCP Message Sender and connect to the IP:PORT from the webhook.
 > [!IMPORTANT]
 > The Bot does not collect IPv6 adresses, update comming soon™!
-> Make sure you are in the same LAN
+> Make sure you are in the same LAN if you want to remote execute commands!
 4. Send a command to the device if you want. Confirm with y.
 ## Commands
 - shutdown   Shuts down the target. Thats it
