@@ -1,6 +1,10 @@
+> [!IMPORTANT]
+> I am no longer working on this project!
+> Feel free to fork it and create pull requests, I'll most likeley review them!
 # Data_grabber
 ## DISCLAIMER: This program is for educational purpose only, only use it on devices you own/have permission to use it on!
-Grabs hostname, device name and IP and sends the collected data to a Discord webhook
+Grabs hostname, device name and IP and sends the collected data to a Discord webhook.
+Includes remote shell execution
 ## Requirements
 - Windows 7 or higher
 - Both files in the same folder
