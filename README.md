@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> I am no longer working on this project!
+> **I am no longer working on this project!**
 > Feel free to fork it and create pull requests, I'll most likeley review them!
 # Data_grabber
 ## DISCLAIMER: This program is for educational purpose only, only use it on devices you own/have permission to use it on!
